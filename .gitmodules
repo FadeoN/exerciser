@@ -1,3 +1,18 @@
 [submodule "exerciser-front"]
 	path = exerciser-front
 	url = https://github.com/tarikisildar/exerciser-front.git
+[submodule "exerciser-api"]
+	path = exerciser-api
+	url = git@github.com:FadeoN/exerciser-api.git
+[submodule "storage-api"]
+	path = storage-api
+	url = git@github.com:FadeoN/storage-api.git
+[submodule "video-embedding-gw"]
+	path = video-embedding-gw
+	url = git@github.com:FadeoN/video-embedding-gw.git
+[submodule "image-embedding-api"]
+	path = image-embedding-api
+	url = git@github.com:FadeoN/image-embedding-api.git
+[submodule "pose-estimation-api"]
+	path = pose-estimation-api
+	url = git@github.com:FadeoN/pose-estimation-api.git
