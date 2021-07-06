@@ -1,0 +1,3 @@
+[submodule "exerciser-front"]
+	path = exerciser-front
+	url = https://github.com/tarikisildar/exerciser-front.git
